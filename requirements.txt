@@ -1,0 +1,8 @@
+selenium
+//install by using cmd pip install selenium
+MozillaFireFox
+//Download Mozilla Browser
+Geckodriver
+//Download from Github sources
+PYTHON INTERFACE
+//Install chatterbot from cmd pip install chatterbot
