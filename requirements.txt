@@ -1,10 +1,3 @@
 selenium
-//install by using cmd pip install selenium
 MozillaFireFox
-//Download Mozilla Browser
 Geckodriver
-//Download from Github sources(https://github.com/mozilla/geckodriver/releases)
-//git clone https://github.com/mozilla/geckodriver/releases 
-//set path from ENVIRONMENT VARIABLES/path/new/SET DOWNLOAD PATH FOLDER
-PYTHON INTERFACE
-//Install chatterbot from cmd pip install chatterbot
